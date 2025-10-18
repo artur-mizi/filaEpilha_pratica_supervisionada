@@ -4,7 +4,7 @@ Resolução de Problemas Estruturados em Computação - Atividade Pratica Superv
 Alunos - Artur Moretti Zimmermann (artur-mizi) e Joaquim dos Anjos Faraco (joaquimFdj).
 
 ## Para Executar:
-### Rode o Arquivo Sistema.java
+### Rode o Arquivo Sistema.java, da pasta versao_final
    
    Isso iniciará o sistema de atendimento e solicitações, após isso siga o menu:
 
